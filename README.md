@@ -7,20 +7,20 @@ A web application that allows users to search for articles on Wikipedia and view
 - Uses Wikipedia API to fetch search results
 - Loading spinner to indicate search results are being fetched
 
-Technologies Used
+⭐Technologies Used
 
 - HTML
 - CSS (Bootstrap)
 - JavaScript (Fetch API)
 
-How it Works
+⭐How it Works
 
 1. User inputs a search query in the search bar and presses Enter.
 2. The application sends a GET request to the Wikipedia API with the search query.
 3. The API returns the search results in JSON format.
 4. The application parses the JSON data and displays the search results on the page.
 
-Code Structure
+⭐Code Structure
 
 The code is structured into several files:
 
@@ -28,31 +28,31 @@ The code is structured into several files:
 - `wikipedia.css`: The CSS file that styles the application.
 - `wikipedia.js`: The JavaScript file that contains the logic for fetching search results and displaying them on the page.
 
-Installation
+⭐Installation
 
 1. Clone the repository: `git clone https://github.com/your-username/wikipedia-clone.git`
 2. Open `index.html` in a web browser to view the application.
 
-API Used
+⭐API Used
 
 - Wikipedia API: `https://apis.ccbp.in/wiki-search`
 
-Contributing
+⭐Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request.
 
-License
+⭐License
 
 This project is licensed under the MIT License. See `LICENSE` for details.
 
 You can also add some screenshots or demo videos to showcase your project.
 
-Example Use Cases
+⭐Example Use Cases
 
 - Searching for articles on Wikipedia
 - Viewing search results with title, link, and description
 
-Future Improvements
+⭐Future Improvements
 
 - Implementing pagination for search results
 - Adding more features to the search bar, such as autocomplete or suggestions

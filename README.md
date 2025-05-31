@@ -57,10 +57,6 @@ You can also add some screenshots or demo videos to showcase your project.
 - Implementing pagination for search results
 - Adding more features to the search bar, such as autocomplete or suggestions
 
-I hope this helps! Let me know if you have any questions or need further assistance.
-
-You can also add your name and contact information if you want.
-
 Author
 
 - Harshitha K

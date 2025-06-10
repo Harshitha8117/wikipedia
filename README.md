@@ -1,5 +1,7 @@
 WIKIPEDIA CLONE
 
+![image](https://github.com/user-attachments/assets/e94ea60d-cae9-4a3e-9390-585af6773f40)
+
 A web application that allows users to search for articles on Wikipedia and view the search results.
 
 ⭐Features

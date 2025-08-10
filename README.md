@@ -6,10 +6,10 @@ A web application that allows users to search for articles on Wikipedia and view
 
 ⭐Features
 
-- Search bar to input search queries
-- Displays search results with title, link, and description
-- Uses Wikipedia API to fetch search results
-- Loading spinner to indicate search results are being fetched
+- Search bar to input search queries.
+- Displays search results with title, link, and description.
+- Uses Wikipedia API to fetch search results.
+- Loading spinner to indicate search results are being fetched.
 
 ⭐Technologies Used
 

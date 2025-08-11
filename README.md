@@ -34,7 +34,7 @@ The code is structured into several files:
 
 ⭐Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/wikipedia-clone.git`
+1. Clone the Repository: `git clone https://github.com/your-username/wikipedia-clone.git`
 2. Open `index.html` in a web browser to view the application.
 
 ⭐API Used

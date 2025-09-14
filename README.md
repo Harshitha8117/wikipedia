@@ -19,7 +19,7 @@ A web application that allows users to search for articles on Wikipedia and view
 
 ⭐How it Works
 
-1. User inputs a search query in the search bar and presses Enter.
+1. User inputs a search query in the search bar and press the "Enter".
 2. The application sends a GET request to the Wikipedia API with the search query.
 3. The API returns the search results in JSON format.
 4. The application parses the JSON data and displays the search results on the page.

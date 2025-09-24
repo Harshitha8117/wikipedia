@@ -1,3 +1,7 @@
+
+
+
+
 let searchInputEl = document.getElementById("searchInput");
 
 let searchResultsEl = document.getElementById("searchResults");
